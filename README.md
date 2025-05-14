@@ -10,8 +10,8 @@ The Learning Celebration Carnival (LCC) is SUTD’s annual event, organized by R
 4. After completing the game, their lucky draw chances are calculated based on their final score, with bonus chances awarded to the first 50 early registrants.
 
 ### Technical Details
-This is a mock version of the the actual website: [https://lcc.sutd.edu.sg](https://lcc.sutd.edu.sg)
-  - Frontend : Developed with SvelteKit (Svelte 5) and Tailwind CSS.
+This is a mirror version of the the actual website: [https://lcc.sutd.edu.sg](https://lcc.sutd.edu.sg)
+  - Frontend : Developed with SvelteKit and Tailwind CSS.
   - Backend : Developed with Sveltekit, Supabase and Microsoft Power Automate
 
 
