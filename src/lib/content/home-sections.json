@@ -1,0 +1,14 @@
+[
+	{
+		"imagePath": "home/boarding-pass.svg",
+		"imageAlt": "Boarding Pass",
+		"title": "Event Details",
+		"subtitle": "12 Feb 2025"
+	},
+	{
+		"imagePath": "home/paper-map.svg",
+		"imageAlt": "Map",
+		"title": "Timeline",
+		"subtitle": "Packed with Fun Activities!"
+	}
+]

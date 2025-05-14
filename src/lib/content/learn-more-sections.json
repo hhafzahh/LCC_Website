@@ -1,0 +1,66 @@
+[
+	{
+		"imagePath": "learn-more/presentation_booth_2.jpg",
+		"id": "presentation-booths",
+		"imageAlt": "presentation booth",
+		"title": "Explore Beyond Your Horizons",
+		"subtitle": "Presentation Booths",
+		"content": "Lorem ipsum"
+	},
+	{
+		"imagePath": "learn-more/activity-booth.png",
+		"id": "activity-booths",
+		"imageAlt": "Luggage Tag",
+		"title": "Learn By Doing",
+		"subtitle": "Activitiy Booths",
+		"content": "Lorem ipsum"
+	},
+	{
+		"imagePath": "learn-more/student-pres.jpeg",
+		"id": "on-stage-presentations",
+		"imageAlt": "On-stage Presentations",
+		"title": "Learn From Your Peers",
+		"subtitle": "On-Stage Presentations",
+		"content": "Lorem ipsum"
+	},
+	{
+		"imagePath": "learn-more/travel-bag.jpg",
+		"id": "door-gifts",
+		"imageAlt": "Door Gifts",
+		"title": "Take Home A Piece Of The Journey",
+		"subtitle": "Door Gifts",
+		"content": "Lorem ipsum"
+	},
+	{
+		"imagePath": "learn-more/passport-travel.jpg",
+		"id": "event-passport",
+		"imageAlt": "Event Passport",
+		"title": "Every Stamp Is a Gateway",
+		"subtitle": "Event Passport",
+		"content": "Lorem ipsum"
+	},
+	{
+		"imagePath": "learn-more/nachos.jpg",
+		"id": "food",
+		"imageAlt": "nachos",
+		"title": "Carnival Snacks & Ice Cream",
+		"subtitle": "Refreshments Await",
+		"content": "Lorem ipsum"
+	},
+	{
+		"imagePath": "learn-more/laser-cutter.webp",
+		"id": "lucky-draw",
+		"imageAlt": "LionsForge Laser Cutter",
+		"title": "Stay Tuned For Exciting Prizes",
+		"subtitle": "Lucky Draw",
+		"content": "Lorem ipsum"
+	},
+	{
+		"imagePath": "learn-more/lunchtime-performance.jpg",
+		"id": "ltp",
+		"imageAlt": "Lunchtime Performances",
+		"title": "Lunchtime Performances",
+		"subtitle": "LTP x LCC",
+		"content": "Lorem ipsum"
+	}
+]

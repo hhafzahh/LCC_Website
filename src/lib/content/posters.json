@@ -1,0 +1,111 @@
+{
+	"overseas": [
+		{
+			"title": "Summer Exchange",
+			"groupName": "SUMMER-A",
+			"imagePath": "regions/overseas/posters/SUMMER-A.avif"
+		},
+		{
+			"title": "Summer Exchange",
+			"groupName": "SUMMER-B",
+			"imagePath": "regions/overseas/posters/SUMMER-B.avif"
+		},
+		{
+			"title": "Summer Exchange",
+			"groupName": "SUMMER-C",
+			"imagePath": "regions/overseas/posters/SUMMER-C.avif"
+		},
+		{
+			"title": "Summer Exchange",
+			"groupName": "SUMMER-D",
+			"imagePath": "regions/overseas/posters/SUMMER-D.avif"
+		},
+		{
+			"title": "Summer Exchange",
+			"groupName": "SUMMER-E",
+			"imagePath": "regions/overseas/posters/SUMMER-E.avif"
+		},
+		{
+			"title": "Summer Exchange",
+			"groupName": "SUMMER-F",
+			"imagePath": "regions/overseas/posters/SUMMER-F.avif"
+		},
+		{
+			"title": "Summer Exchange",
+			"groupName": "SUMMER-G",
+			"imagePath": "regions/overseas/posters/SUMMER-G.avif"
+		},
+		{
+			"title": "Summer Exchange",
+			"groupName": "SUMMER-H",
+			"imagePath": "regions/overseas/posters/SUMMER-H.avif"
+		},
+		{
+			"title": "Summer Exchange",
+			"groupName": "SUMMER-I",
+			"imagePath": "regions/overseas/posters/SUMMER-I.avif"
+		},
+		{
+			"title": "Summer Exchange",
+			"groupName": "SUMMER-J",
+			"imagePath": "regions/overseas/posters/SUMMER-J.avif"
+		},
+		{
+			"title": "Summer Exchange",
+			"groupName": "SUMMER-K",
+			"imagePath": "regions/overseas/posters/SUMMER-K.avif"
+		},
+		{
+			"title": "Summer Exchange",
+			"groupName": "SUMMER-L",
+			"imagePath": "regions/overseas/posters/SUMMER-L.avif"
+		},
+		{
+			"title": "Summer Exchange",
+			"groupName": "SUMMER-M",
+			"imagePath": "regions/overseas/posters/SUMMER-M.avif"
+		},
+		{
+			"title": "Summer Exchange",
+			"groupName": "SUMMER-N",
+			"imagePath": "regions/overseas/posters/SUMMER-N.avif"
+		}
+	],
+	"stuorg": [
+		{
+			"title": "Multirotor Society (MRS)",
+			"groupName": "SUMMER-A",
+			"imagePath": "regions/stuorg/posters/MRS_0.avif"
+		},
+		{
+			"title": "Multirotor Society (MRS)",
+			"groupName": "SUMMER-A",
+			"imagePath": "regions/stuorg/posters/MRS_1.avif"
+		},
+		{
+			"title": "Tchoukball",
+			"groupName": "SUMMER-A",
+			"imagePath": "regions/stuorg/posters/Tchoukball.avif"
+		}
+	],
+	"sustainability": [
+		{
+			"title": "Kyoto",
+			"groupName": "SUMMER-A",
+			"imagePath": "regions/sustainability/posters/GROUP 1.avif"
+		}
+	],
+	"urop": [
+		{
+			"title": "Multirotor Society (MRS)",
+			"groupName": "SUMMER-A",
+			"imagePath": "regions/urop/posters/electrostatic_discharge.avif"
+		},
+		{
+			"title": "Tchoukball",
+			"groupName": "SUMMER-A",
+			"imagePath": "regions/urop/posters/legomri.avif"
+		}
+	],
+	"dai": []
+}

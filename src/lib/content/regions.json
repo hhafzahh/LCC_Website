@@ -1,0 +1,47 @@
+{
+	"learn-more/regions/overseas/main.avif": {
+		"title": "Global Experiences",
+		"link": "/learn-more/overseas",
+		"pageContent": {
+			"title": "Overseas Experiences",
+			"subtitle": "GEXP, GEO & Summer",
+			"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam interdum  ultrices ullamcorper. Donec dolor ipsum, elementum sed arcu vitae,  elementum sollicitudin dui. Proin in auctor purus. Proin vel ante a  nulla mollis placerat. Curabitur tristique dictum augue, sit amet dictum sapien commodo vitae. Fusce aliquet commodo egestas. Morbi fringilla  ipsum commodo dignissim ultricies. Duis imperdiet tincidunt suscipit. Fusce nisl ex, vehicula non malesuada vitae, aliquet vel nisl. Pellentesque pretium ante ligula."
+		}
+	},
+	"learn-more/regions/stuorg/main.avif": {
+		"title": "StuOrg",
+		"link": "/learn-more/stuorg",
+		"pageContent": {
+			"title": "Student Organisations",
+			"subtitle": "Discover New Passions",
+			"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam interdum  ultrices ullamcorper. Donec dolor ipsum, elementum sed arcu vitae,  elementum sollicitudin dui. Proin in auctor purus. Proin vel ante a  nulla mollis placerat. Curabitur tristique dictum augue, sit amet dictum sapien commodo vitae. Fusce aliquet commodo egestas. Morbi fringilla  ipsum commodo dignissim ultricies. Duis imperdiet tincidunt suscipit. Fusce nisl ex, vehicula non malesuada vitae, aliquet vel nisl. Pellentesque pretium ante ligula."
+		}
+	},
+	"learn-more/regions/sustainability/main.avif": {
+		"title": "Sustainability Trips",
+		"link": "/learn-more/sustainability",
+		"pageContent": {
+			"title": "Sustainability Trips",
+			"subtitle": "Sustainable Innovations Awaits You",
+			"content": "Experience hands-on learning beyond the classroom through real-world sustainability challenges. Learn more about SUTD's  First Sustainability Trip in Spring 2024 to Kyoto, Japan. Gain insights from a country with mature sustainability practices, exploring evolving policies, cultural traditions, and success stories. Prepare to become a technically grounded innovator capable of contributing to a sustainable future."
+		}
+	},
+	"learn-more/regions/urop/main.avif": {
+		"title": "UROP",
+		"link": "/learn-more/urop",
+		"pageContent": {
+			"title": "Undergraduate Research Opportunities Programme",
+			"subtitle": "Cutting Edge Research",
+			"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam interdum  ultrices ullamcorper. Donec dolor ipsum, elementum sed arcu vitae,  elementum sollicitudin dui. Proin in auctor purus. Proin vel ante a  nulla mollis placerat. Curabitur tristique dictum augue, sit amet dictum sapien commodo vitae. Fusce aliquet commodo egestas. Morbi fringilla  ipsum commodo dignissim ultricies. Duis imperdiet tincidunt suscipit. Fusce nisl ex, vehicula non malesuada vitae, aliquet vel nisl. Pellentesque pretium ante ligula."
+		}
+	},
+	"learn-more/regions/dai/main.avif": {
+		"title": "DATech",
+		"link": "/learn-more/datech",
+		"pageContent": {
+			"title": "Design AI Tech and Design Innovation",
+			"subtitle": "Innovating and Addressing Complex Challenges",
+			"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam interdum  ultrices ullamcorper. Donec dolor ipsum, elementum sed arcu vitae,  elementum sollicitudin dui. Proin in auctor purus. Proin vel ante a  nulla mollis placerat. Curabitur tristique dictum augue, sit amet dictum sapien commodo vitae. Fusce aliquet commodo egestas. Morbi fringilla  ipsum commodo dignissim ultricies. Duis imperdiet tincidunt suscipit. Fusce nisl ex, vehicula non malesuada vitae, aliquet vel nisl. Pellentesque pretium ante ligula."
+		}
+	}
+}
